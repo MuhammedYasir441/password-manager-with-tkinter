@@ -8,7 +8,8 @@
 -  **JSON File Support**: Passwords are stored and loaded from a JSON file.
 
 ## Usage
-1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your_username/password-manager.git
    cd password-manager
+   python main.py
+   ```
