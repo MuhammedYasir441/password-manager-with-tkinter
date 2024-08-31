@@ -7,12 +7,8 @@
 - **Delete Passwords**: Remove unwanted passwords.
 -  **JSON File Support**: Passwords are stored and loaded from a JSON file.
 
--    ## Usage
-- 1. **Clone the Repository**:
--  
 ## Usage
 1. **Clone the Repository**:
-   
    ```bash
    git clone https://github.com/your_username/password-manager.git
    cd password-manager
