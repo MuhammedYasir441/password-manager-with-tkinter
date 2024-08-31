@@ -8,7 +8,7 @@
 -  **JSON File Support**: Passwords are stored and loaded from a JSON file.
 
 -    ## Usage
-     1. **Clone the Repository**:
+- 1. **Clone the Repository**:
 -  
      ```bash
    git clone https://github.com/your_username/password-manager.git](https://github.com/MuhammedYasir441/password-manager-with-tkinter
