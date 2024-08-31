@@ -10,14 +10,9 @@
 -    ## Usage
 - 1. **Clone the Repository**:
 -  
-     ```bash
-   git clone https://github.com/your_username/password-manager.git](https://github.com/MuhammedYasir441/password-manager-with-tkinter
-   ```
+## Usage
+1. **Clone the Repository**:
    
    ```bash
-   - cd password-manager-with-tkinter
-  ```
-
-  ```bash
-  python main.py
-  ```
+   git clone https://github.com/your_username/password-manager.git
+   cd password-manager
